@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><![endif]-->
+<!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+<head>
+  <!--[if IE]><![endif]-->
+<link rel="preconnect" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="preconnect" href="//fonts.gstatic.com" crossorigin="" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="preconnect" href="//static.chartbeat.com" />
+<link rel="dns-prefetch" href="//static.chartbeat.com" />
+<link rel="preconnect" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="preconnect" href="//www.google-analytics.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<link rel="preconnect" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//cdn.rawgit.com" />
+<link rel="preconnect" href="//cdn.rawgit.com" />
+<link rel="preconnect" href="//platform.twitter.com" />
+<link rel="dns-prefetch" href="//platform.twitter.com" />
+<meta charset="utf-8" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon.png" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="MobileOptimized" content="width" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-150x150.png" sizes="150x150" />
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-76x76.png" sizes="76x76" />
+
+<!-- Shareaholic Content Tags -->
+<meta name='shareaholic:site_name' content='Common Dreams' />
+<meta name='shareaholic:language' content='en' />
+<meta name='shareaholic:site_id' content='cd402eba906de7188c28179edbb4ddef' />
+<meta name='shareaholic:drupal_version' content='7.x-3.31' />
+<meta name='shareaholic:article_visibility' content='private' />
+<!-- Shareaholic Content Tags End -->
+<link rel="apple-touch-icon-precomposed" href="https://www.commondreams.org/sites/all/themes/omega_dreams/images/apple-touch/favicon-120x120.png" sizes="120x120" />
+<link rel='dns-prefetch' href='//k4z6w9b5.stackpathcdn.com' />
+<link rel='dns-prefetch' href='//cdn.shareaholic.net' />
+<link rel='dns-prefetch' href='//www.shareaholic.net' />
+<link rel='dns-prefetch' href='//analytics.shareaholic.com' />
+<link rel='dns-prefetch' href='//recs.shareaholic.com' />
+<link rel='dns-prefetch' href='//go.shareaholic.com' />
+<link rel='dns-prefetch' href='//partner.shareaholic.com' /><!-- Growth powered by Shareaholic - https://www.shareaholic.com -->
+<link rel='preload' href='//cdn.shareaholic.net/assets/pub/shareaholic.js' as='script'>
+<script data-cfasync='false'>
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"share_counts_url":"https:\/\/www.commondreams.org\/shareaholic\/api\/share_counts\/v1"}};
+  //]]>
+</script>
+<script 
+  data-cfasync='false'
+  src='//cdn.shareaholic.net/assets/pub/shareaholic.js'
+  data-shr-siteid='cd402eba906de7188c28179edbb4ddef'
+  async >
+</script><link rel="shortcut icon" href="https://www.commondreams.org/sites/all/themes/omega_dreams/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Common Dreams has been providing breaking news &amp; views for the progressive community since 1997. We are independent, non-profit, advertising-free and 100% reader supported. Our Mission: To inform. To inspire. To ignite change for the common good." />
+<meta name="news_keywords" content="world, u.s., canada, climate, war &amp; peace, economy, rights, solutions" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="generator" content="Drupal 7 (https://drupal.org)" />
+<meta name="rights" content="Creative Commons Attribution-Share Alike 3.0 License" />
+<link rel="image_src" href="https://www.commondreams.org/sites/default/files/media/stacked_small.png" />
+<link rel="shortlink" href="https://www.commondreams.org/home" />
+<meta property="og:site_name" content="Common Dreams" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.commondreams.org" />
+<meta property="og:title" content="Common Dreams" />
+<meta property="og:description" content="Breaking News &amp; Views for the Progressive Community" />
+<meta property="og:image" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_facebook_commondreams.org_.png" />
+<meta name="twitter:site" content="@commondreams" />
+<meta name="twitter:site:id" content="14296273" />
+<meta name="twitter:creator" content="@commondreams" />
+<meta name="twitter:image" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_twitter_commondreams.png" />
+<script>
+        var _sf_async_config = _sf_async_config || {};
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 65712; // ACCOUNT NUMBER
+        _sf_async_config.domain = 'commondreams.org'; // DOMAIN
+        _sf_async_config.flickerControl = false;
+        _sf_async_config.useCanonical = true;
+        /** CONFIGURATION END **/
+        var _sf_startpt = (new Date()).getTime();
+      </script>
+  <title>Breaking News & Views for the Progressive Community | Common Dreams</title>
+  <link itemprop="url" rel="canonical" href="https://www.commondreams.org/"/>
+  <meta property="og:image" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_facebook_commondreams.org_.png">
+<!--  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+for(var fonts=document.cookie.split("advaggf"),i=0;i<fonts.length;i++){var font=fonts[i].split("="),pos=font[0].indexOf("ont_");-1!==pos&&(window.document.documentElement.className+=" "+font[0].substr(4).replace(/[^a-zA-Z0-9\-]/g,""))}if(void 0!==Storage){fonts=JSON.parse(localStorage.getItem("advagg_fonts"));var current_time=(new Date).getTime();for(var key in fonts)fonts[key]>=current_time&&(window.document.documentElement.className+=" "+key.replace(/[^a-zA-Z0-9\-]/g,""))}
+//--><!]]>
+</script>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__umqIZR9Il1X8VysDxzjiXJlLF-kwUwhkt5MTMlEOhAA__jy_vKcYQZ1Tqdw5BaJvgxW4WqtlQoGQoe369fXtGwqs__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.css" media="all" />
+
+  <style>.async-hide { opacity: 0 !important} </style>
+  <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+      h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+      (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+      {'GTM-W8NS99W':true});</script>
+
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__vJxka_6cW3yfAkpAlTzKQaDBh2KBU76AZ20nYT8WqaU__a0nTPYl5VU26m8hPDtZyNU6EobiqS2p5vDPRiTawlfc__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.js"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__fAwOaaar5DjxVen7w4fcL2tNfI_o04OMFpkkFGhiKPE__kH_FYvrueJOnJb21Ga_2VFLXrgb4TwmpsntzTYqPa9I__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__SxvDyngndvNWhxZ56lkqAB0QI8RWdR2vcuJWRDyQySQ__BgL7U6WQDdWpN95JT0kpW8VPUkPSWJZTBBTTXOO9oS8__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-19360686-1", {"cookieDomain":"auto"});ga('require', 'GTM-W8NS99W');ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" defer="defer" async="async" src="https://cdn.rawgit.com/bramstein/fontfaceobserver/v2.1.0/fontfaceobserver.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__HxTbhN-HTG8H6pU8ZNTXLhmTeg8fhzG_sbeVLz0gBqU__AdhAFZ5QAk_VrKkFUOCnxJb9ANrhuWlKf15A7QHm14M__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.js" defer="defer" async="async"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__VWmqqpr_ZiIf_7FLuiIotdBP_-x5HvT0Pd93s_4GSdQ___kdfYgw-gCNHDdjQUj3OOVmH6x0A6pPEbMjvZotcbXg__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.js"></script>
+<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__tbYERv76b18DcsziXSklnW2kDz3F0RYVDx0JVOO7XdE__hqXBv5v6nHoGLunBRiLGatc0M6xi5jV0FkeOcIuH4H4__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","image_caption":{"selector":".node--full .node__content img, img.caption, .field--type-image.caption img"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"advagg_font":{"pt-serif":"PT Serif","source-sans-pro":"Source Sans Pro","pt-sans-narrow":"PT Sans Narrow"},"advagg_font_storage":1,"advagg_font_cookie":1,"advagg_font_no_fout":0,"urlIsAjaxTrusted":{"\/":true},"ctas":{"slide_up_from_bottom_signup":{"delta":"76","campaign":"campaign-winter-2019-22"},"modal_popup":{"delta":"cta_modal_winter_2017","after_page_views":"4","cd_origin":false,"campaign":"campaign-winter-2019-11"}},"ajaxPageState":{"js":{"sites\/all\/modules\/custom\/ctas\/js\/waypoints\/jquery.waypoints.min.js":1,"\/\/static.chartbeat.com\/js\/chartbeat_mab.js":1,"sites\/all\/modules\/custom\/ctas\/js\/popup.js":1,"sites\/all\/modules\/custom\/ctas\/js\/modal_popup.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/omega\/omega\/js\/no-js.js":1,"sites\/all\/modules\/custom\/iwapi\/js\/iwapi.js":1,"sites\/all\/themes\/omega_dreams\/libraries\/html5shiv\/html5shiv.min.js":1,"sites\/all\/themes\/omega_dreams\/libraries\/html5shiv\/html5shiv-printshiv.min.js":1,"sites\/all\/themes\/omega_dreams\/libraries\/selectivizr\/selectivizr.min.js":1,"sites\/all\/themes\/omega_dreams\/libraries\/respond\/respond.min.js":1,"sites\/all\/modules\/custom\/cdreams\/js\/landing-page.js":1,"sites\/all\/modules\/image_caption\/image_caption.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/cdn.rawgit.com\/bramstein\/fontfaceobserver\/v2.1.0\/fontfaceobserver.js":1,"sites\/all\/modules\/advagg\/advagg_font\/advagg_font.js":1,"sites\/all\/themes\/omega_dreams\/js\/waypoints\/jquery.waypoints.min.js":1,"sites\/all\/themes\/omega_dreams\/js\/header.behaviors.js":1,"sites\/all\/modules\/custom\/ctas\/js\/slide_up_from_bottom_signup.js":1,"\/\/platform.twitter.com\/widgets.js":1,"sites\/all\/themes\/omega_dreams\/js\/custom.behaviors.js":1}}});
+//--><!]]>
+</script>
+  <link href=”https://plus.google.com/u/0/112945048567964551573” rel=”publisher” />
+</head>
+<body class="html front not-logged-in page-home">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    
+  <div id="navigation" class="slide-menu">
+<!--    <div id="close-slide-menu-button"><a href="#"><i class="fa fa-window-close-o"></i></a></div>-->
+    <div class="slide-menu-container">
+        <div class="l-region l-region--navigation">
+    <div id="block-block-63" class="block block--block block--block-63">
+        <div class="block__content">
+    <ul class="menu"><li><a href="/">Home</a></li>
+<li><a href="/email-subscription">Subscribe</a></li>
+<li><a href="/donate?cta-location=menu" target="blank">Donate</a></li>
+</ul>  </div>
+</div>
+<nav id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+      
+  <ul class="menu"><li class="first leaf"><a href="/world" title="International news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">World</a></li>
+<li class="leaf"><a href="/war-peace" title="War &amp;amp; Peace news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">War &amp; Peace</a></li>
+<li class="leaf"><a href="/economy" title="News and editorials related to the economy published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Economy</a></li>
+<li class="leaf"><a href="/climate" title="News and editorials related to the climate, climate change, and global warming published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Climate</a></li>
+<li class="leaf"><a href="/rights" title="News and editorials related to the human and civil rights published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Rights</a></li>
+<li class="leaf"><a href="/solutions" title="Solutions to issues facing U.S. citizens and humanity within news and editorials published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Solutions</a></li>
+<li class="leaf"><a href="/us" title="News and editorials related to issues within the United States published by Common Dreams, an independent media outlet based in Portland Maine since 1997">U.S.</a></li>
+<li class="last leaf"><a href="/canada" title="News and editorials related to issues within the Canada published by Common Dreams, an independent media outlet based in Portland Maine since 1997">Canada</a></li>
+</ul></nav>
+<div id="block-block-64" class="block block--block block--block-64">
+        <div class="block__content">
+    <ul class="menu"><li><a href="https://www.facebook.com/commondreams.org" target="blank"><img src="https://www.commondreams.org/sites/default/files/facebook-white-300.png" alt="Common Dreams on Facebook" width="30" height="40" style="vertical-align: middle;" /></a><a href="https://www.twitter.com/commondreams" target="blank"><img src="https://www.commondreams.org/sites/default/files/twitter-white-transparent-lg.png" alt="Common Dreams on Twitter" width="40" height="40" style="vertical-align: middle; margin-right: 8px; margin-left: 8px;" /></a><a href="/rss.xml"><img src="https://www.commondreams.org/sites/default/files/rss-white-lg.png" alt="Common Dreams RSS feed" width="40" height="40" style="vertical-align: middle;" /></a></li>
+</ul>  </div>
+</div>
+<div id="block-block-65" class="block block--block block--block-65">
+        <div class="block__content">
+    <ul class="menu"><li><a href="/about-us">About Us</a></li>
+<li><a href="/key-staff">Key Staff</a></li>
+<li><a href="/testimonials">Testimonials</a></li>
+</ul>  </div>
+</div>
+  </div>
+    </div>
+  </div>
+
+<div class="l-page has-no-sidebars">
+  <div id="header-container" class="fundraiser">
+    <div id="header-top">
+      <div class="l-header">
+        <div class="col header-left">
+          <div id="mobile-menu-wrapper">
+            <a id="slide-menu-button" href="#">
+              <span class="slide-menu-lines"></span>
+              <span class="label">Sections</span>
+            </a>
+          </div>
+
+          <div id="search-icon">
+            <a id="search-toggle" href="#"><i class="fa fa-search"></i> </a>
+          </div>
+        </div>
+
+        <div class="col header-middle">
+          <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="Common Dreams">
+            <meta itemprop="url" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_600.png">
+                          <a href="/" title="Home" rel="home" class="site-logo">
+                  <meta itemprop="foundingdate" content="1997" />
+                  <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                  <img src="/sites/all/themes/omega_dreams/images/cd_stacked_blue-new.jpg" alt="Home" />
+                  <meta itemprop="url" content="https://www.commondreams.org/sites/default/files/cd_stacked_white_600.png">
+                  <meta itemprop="width" content="600">
+                  <meta itemprop="height" content="60">
+                </span>
+              </a>
+                                  </div>
+        </div>
+
+        <div class="col header-right">
+          <a class="button button--secondary" href="/email-subscription">SUBSCRIBE</a>
+          <a class="button button--primary" href="/donate?cta-location=header" target="_blank">DONATE</a>
+        </div>
+      </div>
+
+    </div>
+
+          <div id="header-content">
+          <div class="l-region l-region--header">
+    <div id="block-search-form" role="search" class="block block--search block--search-form">
+        <div class="block__content">
+    <form class="search-block-form" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><button aria-label="Search" type="submit" id="edit-submit" name="op" value="&lt;i class=&quot;fa fa-search&quot; aria-label=&quot;Search&quot;&gt;&lt;/i&gt;" class="form-button"><i class="fa fa-search" aria-label="Search"></i></button></div><input type="hidden" name="form_build_id" value="form-RIPN6joUC6aE8Fl5L6-IXh4noiDtT-0iUGGG1A38E3s" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+      </div>
+    
+<!--    <div id="navigation-container">-->
+<!--      --><!--    </div>-->
+  </div>
+
+  <div id="highlighted-container">
+        </div>
+
+  <div class="l-main">
+    <div class="l-content" role="main">
+      <a id="main-content"></a>
+                                                            <div class="mondrian panel-display panel-display--mondrian">
+            <div class="mondrian-region mondrian-region--main">
+        <div class="panel-pane pane-views pane-news">
+            <div class="view view-news view-id-news view-display-id-news_block_primary primary-news-article view-dom-id-0249b51e1c2383e4ee808be87878f14e">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/16/fox-news-poll-bernie-sanders-would-beat-trump-9-points">FOX News Poll: Bernie Sanders Would Beat Trump By 9 Points</a></div>  </div>  
+  <div class="views-field views-field-field-article-img">        <div class="field-content"><a href="/news/2019/06/16/fox-news-poll-bernie-sanders-would-beat-trump-9-points"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_large/public/headlines/bernie-sanders-des-moines-pride-955px.jpg?itok=tq8BTy_W" width="955" height="500" alt="Democratic presidential candidate Senator Bernie Sanders (I-VT) poses for a picture with volunteers following a campaign stop at the Capital City Pride Fest on June 08, 2019 in Des Moines, Iowa. " /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+<div class="panel-pane pane-views pane-news">
+            <div class="view view-news view-id-news view-display-id-news_block_secondary secondary-news-article view-dom-id-ed5460ec9975e14cb19ae365d3088b2c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/16/us-attacks-russias-power-grid-trump-kept-dark">US Attacks Russia’s Power Grid; Trump Kept in Dark</a></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Common Dreams staff</div>  </div>  
+  <div class="views-field views-field-field-article-img">        <div class="field-content"><a href="/news/2019/06/16/us-attacks-russias-power-grid-trump-kept-dark"><img class="" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/russian-power-grid-955px.jpg?itok=-CYKDiJ6" width="768" height="401" alt="U.S. Escalates Online Attacks on Russia’s Power Grid. Officials described the move into Russia’s grid and other targets as a classified companion to more publicly discussed action directed at Moscow’s disinformation and hacking units around the 2018 midterm elections." /></a></div>  </div>  
+  <div class="views-field views-field-field-subtitle">        <div class="field-content">'The question now is whether placing the equivalent of land mines in a foreign power network is the right way to deter Russia'</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/news/2019/06/16/us-attacks-russias-power-grid-trump-kept-dark">Read More</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+<div class="panel-pane pane-views pane-news">
+            <div class="view view-news view-id-news view-display-id-news_block_tertiary tertiary-news-article view-dom-id-cdd799e14e20a1c5cecba7d95bf75807">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/15/ocasio-cortez-were-going-fight-repeal-hyde-amendment">Ocasio-Cortez: &quot;We’re Going to Fight to Repeal the Hyde Amendment&quot;</a></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Common Dreams staff</div>  </div>  
+  <div class="views-field views-field-field-article-img">        <div class="field-content"><a href="/news/2019/06/15/ocasio-cortez-were-going-fight-repeal-hyde-amendment"><img class="" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/alexandria-ocasio-cortez-06122019-955px.jpg?itok=7lGWhy9u" width="768" height="401" alt="U.S. Rep. Alexandria Ocasio-Cortez (D-NY) speaks during a meeting of the House Committee on Oversight and Reform June 12, 2019 on Capitol Hill in Washington, DC. " /></a></div>  </div>  
+  <div class="views-field views-field-field-subtitle">        <div class="field-content">"Access to safe and legal abortion care in the United States ought to be non-...</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/news/2019/06/15/ocasio-cortez-were-going-fight-repeal-hyde-amendment">Read More</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/eye-popping-analysis-shows-top-1-gained-21-trillion-wealth-1989-while-bottom-half">&#039;Eye-Popping&#039;: Analysis Shows Top 1% Gained $21 Trillion in Wealth Since 1989 While Bottom Half Lost $900 Billion</a></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Jake Johnson, staff writer</div>  </div>  
+  <div class="views-field views-field-field-article-img">        <div class="field-content"><a href="/news/2019/06/14/eye-popping-analysis-shows-top-1-gained-21-trillion-wealth-1989-while-bottom-half"><img class="" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/jeff_bezos.jpg?itok=yBI1kL0i" width="768" height="401" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-subtitle">        <div class="field-content">"The top one percent owns nearly $30 trillion of assets while the bottom half...</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/news/2019/06/14/eye-popping-analysis-shows-top-1-gained-21-trillion-wealth-1989-while-bottom-half">Read More</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+<div class="panel-pane pane-views pane-news">
+            <div class="view view-news view-id-news view-display-id-news_block_therest remaining-news-article grid-layout view-dom-id-5d718a77153cd73d9a3a4033f610b70a">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/trump-must-not-be-allowed-use-gulf-oman-incidents-pretext-illegal-war-iran-bernie"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/sanders-oil-tankers-iran-restraint.jpg?itok=b628reJQ" width="420" height="220" alt="Democratic presidential candidate Sen. Bernie Sanders (I-Vt.) delivers remarks at a campaign function in the Marvin Center at George Washington University on June 12, 2019 in Washington, D.C. " /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/trump-must-not-be-allowed-use-gulf-oman-incidents-pretext-illegal-war-iran-bernie">Trump Must Not Be Allowed to Use Gulf of Oman Incidents as &#039;Pretext for Illegal War With Iran&#039;: Bernie Sanders</a></div>  </div>  </div>
+  <div class="views-row views-row-2 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/changes-are-really-accelerating-alaska-record-warm-while-greenland-sees-major-ice"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/alaska_0.jpg?itok=BujdC44A" width="420" height="220" alt="The Sawyer Glacier in Alaska, July 2016. The Arctic is enduring unprecedented warming this year, affecting Alaska and Greenland specifically. " /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/changes-are-really-accelerating-alaska-record-warm-while-greenland-sees-major-ice">&#039;The Changes Are Really Accelerating&#039;: Alaska at Record Warm While Greenland Sees Major Ice Melt</a></div>  </div>  </div>
+  <div class="views-row views-row-3 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/horror-border-slew-recent-incidents-highlight-human-rights-crisis"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/border.jpg?itok=VPBfRQYG" width="420" height="220" alt="Central American migrants cross the Rio Grande river in Ciudad Juarez, state of Chihuahua, Mexico, on June 12, 2019, before turning themselves to US Border Patrol agents to ask for asylum. " /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/horror-border-slew-recent-incidents-highlight-human-rights-crisis">Horror on the Border: Slew of Recent Incidents Highlight Human Rights Crisis</a></div>  </div>  </div>
+  <div class="views-row views-row-4 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/contradicting-trump-claim-iranian-mine-attack-owner-japanese-oil-tanker-says-flying"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/japanese_tanker.jpg?itok=h9o6A7gd" width="420" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/contradicting-trump-claim-iranian-mine-attack-owner-japanese-oil-tanker-says-flying">Contradicting Trump Claim of Iranian Mine Attack, Owner of Japanese Oil Tanker Says &#039;Flying Object&#039; Likely Caused Explosions</a></div>  </div>  </div>
+  <div class="views-row views-row-5 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/sanders-cummings-demand-doj-investigate-pharma-giants-sick-and-disgraceful-price"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/sanders_cummings.jpg?itok=UXI3RDjP" width="420" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/sanders-cummings-demand-doj-investigate-pharma-giants-sick-and-disgraceful-price">Sanders, Cummings Demand DOJ Investigate Pharma Giants for &#039;Sick and Disgraceful&#039; Price-Fixing Conspiracy</a></div>  </div>  </div>
+  <div class="views-row views-row-6 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/think-us-media-wont-help-lead-nation-war-iran-based-flimsy-or-false-intelligence"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/iran_war_media.jpg?itok=cl5OzaO7" width="420" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/think-us-media-wont-help-lead-nation-war-iran-based-flimsy-or-false-intelligence">Think US Media Won&#039;t Help Lead Nation Into War With Iran Based on Flimsy Intelligence? Looks Like They Already Are</a></div>  </div>  </div>
+  <div class="views-row views-row-7 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/pramila-jayapal-motivated-wave-right-wing-attacks-reproductive-rights-draws-praise"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/jayapal_1.jpg?itok=1CV0GG9T" width="420" height="220" alt="Rep. Pramila Jayapal (D-Wash.)" /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/pramila-jayapal-motivated-wave-right-wing-attacks-reproductive-rights-draws-praise">Pramila Jayapal, Motivated by Wave of Right-Wing Attacks on Reproductive Rights, Draws Praise for Sharing Her Abortion Story</a></div>  </div>  </div>
+  <div class="views-row views-row-8 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/protesting-against-air-pollution-crisis-extinction-rebellion-stalls-rush-hour"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-11558633881.jpg?itok=ChCTlkCo" width="420" height="220" alt="Extinction Rebellion activists" /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/protesting-against-air-pollution-crisis-extinction-rebellion-stalls-rush-hour">Protesting Against Air Pollution Crisis, Extinction Rebellion Stalls Rush-Hour Traffic in London</a></div>  </div>  </div>
+  <div class="views-row views-row-9 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/after-exposing-corrupted-brazilian-government-journalist-glenn-greenwald-faces"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/greenwald_npr_0.jpg?itok=YjATDrce" width="420" height="220" alt="Journalist Glenn Greenwald is facing death threats for his reporting on Brazilian corruption. " /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/after-exposing-corrupted-brazilian-government-journalist-glenn-greenwald-faces">After Exposing &#039;Corrupted&#039; Brazilian Government, Journalist Glenn Greenwald Faces Deportation Warning and Death Threats</a></div>  </div>  </div>
+  <div class="views-row views-row-10 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/14/usda-employees-turn-backs-sonny-perdue-usda-head-announces-moving-research-agencies"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/usda-stand-turn-backs-perdue.jpg?itok=GQqFu8Eu" width="420" height="220" alt="Employees stood and turned their backs to Sonny Perdue on Thursday as the agriculture secretary detailed the move of two of USDA&#039;s key research agencies out of Washington, D.C." /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/14/usda-employees-turn-backs-sonny-perdue-usda-head-announces-moving-research-agencies">USDA Employees Turn Backs on Sonny Perdue as USDA Head Announces Moving of Research Agencies</a></div>  </div>  </div>
+  <div class="views-row views-row-11 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/13/deja-vu-iraq-war-lies-mike-pompeo-blames-iran-tanker-attack-without-single-shred"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/mike_pompeo_2.jpg?itok=Ot-MbaiB" width="420" height="220" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/13/deja-vu-iraq-war-lies-mike-pompeo-blames-iran-tanker-attack-without-single-shred">&#039;Deja Vu&#039; of Iraq War Lies as Mike Pompeo Blames Iran for Tanker Attack Without Single Shred of Evidence</a></div>  </div>  </div>
+  <div class="views-row views-row-12 grid-tile">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><a href="/news/2019/06/13/wyden-bill-strip-tax-breaks-private-prison-industry-profiting-child-detentions"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/wyden_1.jpg?itok=Nh64ltqM" width="420" height="220" alt="Sen. Ron Wyden (D-Ore.) at a town hall in Multnomah County, Oregon on Feb 25, 2017." /></a></div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/news/2019/06/13/wyden-bill-strip-tax-breaks-private-prison-industry-profiting-child-detentions">Wyden Bill to Strip Tax Breaks From Private Prison Industry Profiting From Child Detentions</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="/news" class="chevron">More News</a></p>
+    </div>
+  
+  
+</div>    </div>
+<div class="panel-pane pane-views pane-views-articles hide-for-desktop">
+          <h2 class="pane-title"><span>Views</span></h2>
+        <div class="view view-views-articles view-id-views_articles view-display-id-block view-dom-id-7bf92e9a0aa12790c9e294eebccddfa4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/gwynne_dyer.jpg?itok=h4YJr-dw" width="65" height="65" alt="Gwynne Dyer" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Gwynne Dyer</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/irans-game">Iran&#039;s Game</a></div>  </div>  </div>
+  <div class="views-row views-row-2">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/0-3.jpeg?itok=NyEMcUwF" width="65" height="65" alt="Celina della Croce" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Celina della Croce</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/why-venezuela-vietnam-our-time">Why Venezuela Is the Vietnam of Our Time</a></div>  </div>  </div>
+  <div class="views-row views-row-3">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/norman150.jpg?itok=H0ry8iKs" width="65" height="65" alt="Tony Norman" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Tony Norman</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/sorry-means-sometimes-having-admit-youre-racist">Sorry Means Sometimes Having to Admit You&#039;re Racist</a></div>  </div>  </div>
+  <div class="views-row views-row-4">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/peter_certo.png?itok=8uN0neuH" width="65" height="65" alt="Peter Certo" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Peter Certo</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/fathers-day-gift-myself-activism"> A Father’s Day Gift for Myself: Activism</a></div>  </div>  </div>
+  <div class="views-row views-row-5">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/wim-laven.jpg?itok=3PmLGUL6" width="65" height="65" alt="Wim Laven" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Wim Laven</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/we-need-evidence-based-decision-making">We Need Evidence-Based Decision Making</a></div>  </div>  </div>
+  <div class="views-row views-row-6">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/christycircle.png?itok=pWGJFQQZ" width="65" height="65" alt="Christy Spees" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Christy Spees</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/15/if-we-want-antibiotics-work-consumers-have-put-big-pressure-factory-farms">If We Want Antibiotics to Work, Consumers Have to Put Big Pressure on Factory Farms</a></div>  </div>  </div>
+  <div class="views-row views-row-7">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/canning.jpg?itok=enE_fIem" width="65" height="65" alt="Ernest A. Canning" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Ernest A. Canning</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/15/bernie-sanders-delivered-most-profound-speech-we-lost-mlk">Bernie Sanders Delivered the Most Profound Speech Since We Lost MLK</a></div>  </div>  </div>
+  <div class="views-row views-row-8">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/margolis.jpg?itok=K-Vp10we" width="65" height="65" alt="Eric Margolis" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Eric Margolis</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/15/will-real-bombers-please-stand">Will the Real Bombers Please Stand Up</a></div>  </div>  </div>
+  <div class="views-row views-row-9">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2016-10-29_at_3.14.47_pm.png?itok=6nN1aNVy" width="65" height="65" alt="Janine Jackson" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Janine Jackson</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/15/big-media-get-big-things-wrong-venezuela">Big Media Get Big Things Wrong on Venezuela</a></div>  </div>  </div>
+  <div class="views-row views-row-10">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/trita.jpg?itok=oZeTFsdc" width="65" height="65" alt="Trita Parsi" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Trita Parsi</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/trump-blames-iran-tanker-attacks-lets-be-skeptical-his-administrations-pro-war">Trump Blames Iran for the Tanker Attacks. But Let&#039;s be Skeptical of his Administration&#039;s Pro-War Bluster</a></div>  </div>  </div>
+  <div class="views-row views-row-11">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/ch_ch.jpg?itok=K-211fdl" width="65" height="65" alt="Christian Christensen" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Christian Christensen</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/not-founded-anything-epitaph-sarah-huckabee-sanders-era">&quot;Not Founded On Anything&quot;: The Epitaph for the Sarah Huckabee Sanders Era</a></div>  </div>  </div>
+  <div class="views-row views-row-12">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/kevinprofile.jpg?itok=FgKKR5Hc" width="65" height="65" alt="Kevin Gosztola" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Kevin Gosztola</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/facing-serious-charges-judge-sets-long-timetable-assange-prepare-defense-against">Facing Serious Charges, Judge Sets &#039;Long Timetable&#039; For Assange To Prepare Defense Against Extradition</a></div>  </div>  </div>
+  <div class="views-row views-row-13">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/matt-taibbi.jpg?itok=E8SBxnPU" width="65" height="65" alt="Matt Taibbi" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Matt Taibbi</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/elizabeth-warrens-rise-plus-issue-politics-and-bad-sign-billionaires">Elizabeth Warren’s Rise Is a Plus for Issue Politics—And a Bad Sign for Billionaires</a></div>  </div>  </div>
+  <div class="views-row views-row-14">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/juan_cole.jpg?itok=70x3hI5J" width="65" height="65" alt="Juan Cole" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Juan Cole</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/whatever-pompeo-says-there-no-certainty-iran-mined-tankers">Whatever Pompeo Says, There Is No Certainty Iran Mined the Tankers</a></div>  </div>  </div>
+  <div class="views-row views-row-15">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/bob_koehler.jpg?itok=0ntj0YQt" width="65" height="65" alt="Robert C. Koehler" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Robert C. Koehler</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/armed-bureaucracy">The Armed Bureaucracy</a></div>  </div>  </div>
+  <div class="views-row views-row-16">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2017-12-01_at_3.18.04_pm.png?itok=qgptbHgZ" width="65" height="65" alt="Richard Silverstein" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Richard Silverstein</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/pompeo-angling-interfere-british-politics">Is Pompeo Angling to Interfere in British Politics?</a></div>  </div>  </div>
+  <div class="views-row views-row-17">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/stan_sorscher.jpg?itok=yWHUMrRg" width="65" height="65" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Stan Sorscher</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/making-sense-nafta-and-its-replacement">Making Sense of NAFTA and Its Replacement</a></div>  </div>  </div>
+  <div class="views-row views-row-18">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/joe_emersberger.jpg?itok=hyL_UC2L" width="65" height="65" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Joe Emersberger</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/study-linking-us-sanctions-venezuelan-deaths-buried-reuters-over-month">Study Linking US Sanctions to Venezuelan Deaths Buried By Reuters for Over a Month</a></div>  </div>  </div>
+  <div class="views-row views-row-19">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/magazine.jpg?itok=5-1kAPhp" width="65" height="65" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Eric Levitz</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/13/democratic-socialism-there-no-alternative">Democratic Socialism: &#039;There Is No Alternative&#039;</a></div>  </div>  </div>
+  <div class="views-row views-row-20">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/juan_cole.jpg?itok=70x3hI5J" width="65" height="65" alt="Juan Cole" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Juan Cole</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/13/trump-requests-hacked-dirt-2020-democrats-foreign-regimes-free-ad-aired-disneys-abc">Trump Requests Hacked Dirt on 2020 Democrats From Foreign Regimes in Free Ad Aired on Disney&#039;s ABC News</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/views">
+    More Views  </a>
+</div>
+  
+  
+  
+</div>    </div>
+<div class="panel-pane pane-views pane-further">
+          <h2 class="pane-title"><span>Further...</span></h2>
+        <div class="view view-further view-id-further view-display-id-block view-dom-id-8c7c726c423af1f8e5926419b1b84a88">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/further/2019/06/16/kingston-isnt-sure-about-finale-empire">Kingston Isn&#039;t Sure About the Finale of &quot;Empire&quot;</a></div>  </div>  
+  <div class="views-field views-field-field-image">        <div class="field-content"><p class="print-no">
+   <a href="/further/2019/06/16/kingston-isnt-sure-about-finale-empire"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/further/dj_tease_cool_ad-kid-ht-jpo-190606_hpmain_16x9_992.jpg?itok=hL7vblTi" width="420" height="220" alt="" /></a></p>
+</div>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">Happy Father's Day to DJ Pryor and his 19-month-old son, Kingston, who just broke the Internet with a home video of the two happily, thoughtfully chatting about the season finale of "Empire." Pryor, a Tennessee comedian, was ambivalent about it. Kingston was...umm...possibly, babblingly in agreement, but it's hard to tell 'cause he can't talk yet. Pure sweet joy. Kudos to Pryor and all the other dads simply present and listening, even if they have no clue what their kids are saying.</div>  </div>  
+  <div class="views-field views-field-field-more-text">        <div class="field-content"><a href="/further/2019/06/16/kingston-isnt-sure-about-finale-empire">Read More...</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="https://www.commondreams.org/further">
+    More Further  </a>
+</div>
+  
+  
+  
+</div>    </div>
+<div class="panel-pane pane-views pane-newswire">
+          <h2 class="pane-title"><span>Progressive Newswire</span></h2>
+        <div class="view view-newswire view-id-newswire view-display-id-block view-dom-id-d392eda8ff2668ea3e3577db9e3bb938">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content">Peace Action</span>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/newswire/2019/06/14/high-tensions-persian-gulf-require-maximum-restraint-not-maximum-pressure-0">High Tensions in the Persian Gulf Require ‘Maximum Restraint,’ Not ‘Maximum Pressure’</a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content">Peace Action</span>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/newswire/2019/06/14/high-tensions-persian-gulf-require-maximum-restraint-not-maximum-pressure">High Tensions in the Persian Gulf Require ‘Maximum Restraint,’ Not ‘Maximum Pressure’</a></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content">Free Speech for People</span>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/newswire/2019/06/14/free-speech-people-sues-fec-over-trump-campaigns-hush-money-payment">Free Speech For People Sues FEC Over Trump Campaign’s Hush Money Payment</a></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content">Friends of the Earth</span>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/newswire/2019/06/14/klobuchar-must-reject-line-3-pipeline-or-contradict-her-green-new-deal-support">Klobuchar Must Reject Line 3 Pipeline or Contradict Her Green New Deal Support</a></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-name">        <span class="field-content">Public Citizen</span>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/newswire/2019/06/13/public-citizen-agrees-federal-watchdog-conway-must-go">Public Citizen Agrees With Federal Watchdog, Conway Must Go</a></div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content">Food &amp; Water Watch</span>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/newswire/2019/06/13/flint-residents-should-not-have-wait-any-longer-justice">Flint Residents Should Not Have to Wait Any Longer for Justice</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/newswire">
+    More Newswire  </a>
+</div>
+  
+  
+  
+</div>    </div>
+      </div>
+                <div class="mondrian-region mondrian-region--secondary">
+        <div class="panel-pane pane-block pane-block-54 newsletter-signup-panel">
+  
+
+  <h1>Never Miss a Beat</h1>
+
+  <p>Get our best delivered to your inbox.</p>
+<div class="newsletter-form">
+<form action="https://info.commondreams.org/acton/eform/33231/0008/d-ext-0001" name="custom_form" enctype="multipart/form-data" accept-charset="UTF-8" id="custom_form">
+<p><input id="form_0008_fld_0" class="formFieldText formFieldLarge" type="text" name="Email" placeholder="Your email" required="" /></p>
+<p><input id="form_0008_fld_2-0" type="hidden" name="Subscription Choice" value="Daily Newsletter" checked="checked" /></p>
+<p><input id="form_0008_ao_submit_input" onclick="doSubmit(document.getElementById('form_0008'))" type="submit" name="Submit" value="Sign Up" /><br /><input id="form_0008_fld_2-1" type="hidden" name="Subscription Choice" value="Weekly Newsletter" checked="checked" /></p></form>
+</div>
+
+</div>
+<div class="panel-pane pane-views pane-views-articles hide-for-tablet">
+          <h2 class="pane-title"><span>Views</span></h2>
+        <div class="view view-views-articles view-id-views_articles view-display-id-block view-dom-id-ac5981052254d9394b709fba060755f5">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/gwynne_dyer.jpg?itok=h4YJr-dw" width="65" height="65" alt="Gwynne Dyer" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Gwynne Dyer</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/irans-game">Iran&#039;s Game</a></div>  </div>  </div>
+  <div class="views-row views-row-2">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/0-3.jpeg?itok=NyEMcUwF" width="65" height="65" alt="Celina della Croce" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Celina della Croce</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/why-venezuela-vietnam-our-time">Why Venezuela Is the Vietnam of Our Time</a></div>  </div>  </div>
+  <div class="views-row views-row-3">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/norman150.jpg?itok=H0ry8iKs" width="65" height="65" alt="Tony Norman" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Tony Norman</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/sorry-means-sometimes-having-admit-youre-racist">Sorry Means Sometimes Having to Admit You&#039;re Racist</a></div>  </div>  </div>
+  <div class="views-row views-row-4">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/peter_certo.png?itok=8uN0neuH" width="65" height="65" alt="Peter Certo" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Peter Certo</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/fathers-day-gift-myself-activism"> A Father’s Day Gift for Myself: Activism</a></div>  </div>  </div>
+  <div class="views-row views-row-5">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/wim-laven.jpg?itok=3PmLGUL6" width="65" height="65" alt="Wim Laven" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Wim Laven</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/16/we-need-evidence-based-decision-making">We Need Evidence-Based Decision Making</a></div>  </div>  </div>
+  <div class="views-row views-row-6">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/christycircle.png?itok=pWGJFQQZ" width="65" height="65" alt="Christy Spees" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Christy Spees</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/15/if-we-want-antibiotics-work-consumers-have-put-big-pressure-factory-farms">If We Want Antibiotics to Work, Consumers Have to Put Big Pressure on Factory Farms</a></div>  </div>  </div>
+  <div class="views-row views-row-7">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/canning.jpg?itok=enE_fIem" width="65" height="65" alt="Ernest A. Canning" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Ernest A. Canning</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/15/bernie-sanders-delivered-most-profound-speech-we-lost-mlk">Bernie Sanders Delivered the Most Profound Speech Since We Lost MLK</a></div>  </div>  </div>
+  <div class="views-row views-row-8">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/margolis.jpg?itok=K-Vp10we" width="65" height="65" alt="Eric Margolis" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Eric Margolis</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/15/will-real-bombers-please-stand">Will the Real Bombers Please Stand Up</a></div>  </div>  </div>
+  <div class="views-row views-row-9">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2016-10-29_at_3.14.47_pm.png?itok=6nN1aNVy" width="65" height="65" alt="Janine Jackson" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Janine Jackson</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/15/big-media-get-big-things-wrong-venezuela">Big Media Get Big Things Wrong on Venezuela</a></div>  </div>  </div>
+  <div class="views-row views-row-10">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/trita.jpg?itok=oZeTFsdc" width="65" height="65" alt="Trita Parsi" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Trita Parsi</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/trump-blames-iran-tanker-attacks-lets-be-skeptical-his-administrations-pro-war">Trump Blames Iran for the Tanker Attacks. But Let&#039;s be Skeptical of his Administration&#039;s Pro-War Bluster</a></div>  </div>  </div>
+  <div class="views-row views-row-11">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/ch_ch.jpg?itok=K-211fdl" width="65" height="65" alt="Christian Christensen" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Christian Christensen</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/not-founded-anything-epitaph-sarah-huckabee-sanders-era">&quot;Not Founded On Anything&quot;: The Epitaph for the Sarah Huckabee Sanders Era</a></div>  </div>  </div>
+  <div class="views-row views-row-12">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/kevinprofile.jpg?itok=FgKKR5Hc" width="65" height="65" alt="Kevin Gosztola" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Kevin Gosztola</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/facing-serious-charges-judge-sets-long-timetable-assange-prepare-defense-against">Facing Serious Charges, Judge Sets &#039;Long Timetable&#039; For Assange To Prepare Defense Against Extradition</a></div>  </div>  </div>
+  <div class="views-row views-row-13">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/matt-taibbi.jpg?itok=E8SBxnPU" width="65" height="65" alt="Matt Taibbi" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Matt Taibbi</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/elizabeth-warrens-rise-plus-issue-politics-and-bad-sign-billionaires">Elizabeth Warren’s Rise Is a Plus for Issue Politics—And a Bad Sign for Billionaires</a></div>  </div>  </div>
+  <div class="views-row views-row-14">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/juan_cole.jpg?itok=70x3hI5J" width="65" height="65" alt="Juan Cole" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Juan Cole</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/whatever-pompeo-says-there-no-certainty-iran-mined-tankers">Whatever Pompeo Says, There Is No Certainty Iran Mined the Tankers</a></div>  </div>  </div>
+  <div class="views-row views-row-15">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/bob_koehler.jpg?itok=0ntj0YQt" width="65" height="65" alt="Robert C. Koehler" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Robert C. Koehler</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/armed-bureaucracy">The Armed Bureaucracy</a></div>  </div>  </div>
+  <div class="views-row views-row-16">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2017-12-01_at_3.18.04_pm.png?itok=qgptbHgZ" width="65" height="65" alt="Richard Silverstein" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Richard Silverstein</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/pompeo-angling-interfere-british-politics">Is Pompeo Angling to Interfere in British Politics?</a></div>  </div>  </div>
+  <div class="views-row views-row-17">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/stan_sorscher.jpg?itok=yWHUMrRg" width="65" height="65" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Stan Sorscher</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/making-sense-nafta-and-its-replacement">Making Sense of NAFTA and Its Replacement</a></div>  </div>  </div>
+  <div class="views-row views-row-18">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/joe_emersberger.jpg?itok=hyL_UC2L" width="65" height="65" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Joe Emersberger</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/14/study-linking-us-sanctions-venezuelan-deaths-buried-reuters-over-month">Study Linking US Sanctions to Venezuelan Deaths Buried By Reuters for Over a Month</a></div>  </div>  </div>
+  <div class="views-row views-row-19">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/magazine.jpg?itok=5-1kAPhp" width="65" height="65" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Eric Levitz</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/13/democratic-socialism-there-no-alternative">Democratic Socialism: &#039;There Is No Alternative&#039;</a></div>  </div>  </div>
+  <div class="views-row views-row-20">
+      
+  <div class="views-field views-field-field-profile-img">        <div class="field-content"><img class="" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/juan_cole.jpg?itok=70x3hI5J" width="65" height="65" alt="Juan Cole" /></div>  </div>  
+  <div class="views-field views-field-field-hp-author">        <div class="field-content">Juan Cole</div>  </div>  
+  <div class="views-field views-field-field-hp-title">        <div class="field-content"><a href="/views/2019/06/13/trump-requests-hacked-dirt-2020-democrats-foreign-regimes-free-ad-aired-disneys-abc">Trump Requests Hacked Dirt on 2020 Democrats From Foreign Regimes in Free Ad Aired on Disney&#039;s ABC News</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/views">
+    More Views  </a>
+</div>
+  
+  
+  
+</div>    </div>
+<div class="panel-pane pane-block pane-block-9">
+            <div class="sidebar-social"><center>Connect With Us <a href="https://www.facebook.com/commondreams.org" target="_blank"><em class="fa fa-facebook-square"></em></a><a href="https://www.twitter.com/commondreams" target="_blank"><em class="fa fa-twitter-square"></em></a><a href="/rss.xml" target="_blank"><em class="fa fa-rss-square"></em></a></center></div>
+    </div>
+      </div>
+                        </div>
+          </div>
+
+          </div>
+
+  <footer class="l-footer" role="contentinfo">
+      <div class="l-region l-region--footer">
+    <div id="block-panels-mini-footer-panel" class="block block--panels-mini block--panels-mini-footer-panel">
+        <div class="block__content">
+    <div class="grid-3 panel-display panel-display--grid-3">
+            <div class="grid-3-region grid-3-region--first">
+        <div class="panel-pane pane-block pane-block-5">
+          <h2 class="pane-title"><span>About Common Dreams</span></h2>
+        <p>Our Mission:<br />To inform. To inspire.<br />To ignite change for the common good.</p>
+<p>Common Dreams has been providing breaking news &amp; views for the progressive community since 1997. We are independent, non-profit, advertising-free and 100% reader supported.</p>
+<ul><li><a href="/about-us">About Common Dreams</a></li>
+<li><a href="/testimonials">Testimonials</a></li>
+<li><a href="/key-staff">Key Staff</a></li>
+<li><a href="/writers-guidelines">Writers' Guidelines</a></li>
+<li><a href="/commons-community-guidelines">The Commons - Community Guidelines</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+<li><a href="/jobs">Jobs</a></li>
+</ul>    </div>
+      </div>
+                <div class="grid-3-region grid-3-region--second">
+        <div class="panel-pane pane-block pane-block-4">
+          <h2 class="pane-title"><span>Contact Us</span></h2>
+        <p class="contact-map">Common Dreams<br />P.O. Box 443<br />Portland, ME 04112-0443<br />USA</p>
+
+<p class="contact-mail">via Email:</p>
+
+<ul><li><a href="mailto:editor@commondreams.org">Editor</a></li><li><a href="mailto:newstips@commondreams.org">News Tips?</a></li><li><a href="mailto:editor@commondreams.org">Corrections?</a></li><li><a href="mailto:submissions@commondreams.org">Views Submissions</a></li><li><a href="mailto:news@commondreams.org">News Release Submissions</a></li><li><a href="mailto:info@commondreams.org">Webmaster / General Info</a></li></ul>
+
+<p class="contact-phone">207.775.0488</p>    </div>
+      </div>
+                <div class="grid-3-region grid-3-region--third">
+        <div class="panel-pane pane-block pane-block-6">
+          <h2 class="pane-title"><span>Common Dreams brings you the news that matters.</span></h2>
+        <p><a href="https://www.commondreams.org/donate?&amp;cta-location=footer" target="_blank" class="button">SUPPORT Common Dreams</a></p>
+    </div>
+<div class="panel-pane pane-block pane-block-8">
+          <h2 class="pane-title"><span>Sign up for Newsletter</span></h2>
+        <p><a class="button" href="https://www.commondreams.org/email-subscription">Click to Sign Up</a></p>
+    </div>
+<div class="panel-pane pane-block pane-block-7">
+          <h2 class="pane-title"><span>Connect With Us</span></h2>
+        <div class="footer-social"><span itemscope="" itemtype="http://schema.org/Organization"><a itemprop="sameAs" target="_blank" href="https://www.facebook.com/commondreams.org"><em class="fa fa-facebook-square"></em></a><a itemprop="sameAs" target="_blank" href="https://www.twitter.com/commondreams"><em class="fa fa-twitter-square"></em></a><a target="_blank" href="/rss.xml"><em class="fa fa-rss-square"></em></a><a itemprop="sameAs" target="_blank" href="https://www.google.com/search?q=Common+Dreams&amp;ludocid=10116163473606830353#lrd=0x0:0x8c63d514de1de911,1"><em class="fa fa-google-plus-square"></em></a></span></div>
+    </div>
+      </div>
+                        </div>
+  </div>
+</div>
+<div id="block-block-3" class="block block--block block--block-3">
+        <div class="block__content">
+    <div style="margin-top: 10px;">
+<div style="float: left;"><a href="https://www.commondreams.org"><img src="/sites/default/files/cd_stacked_white_600.png" alt="Common Dreams News and Views Published in Maine Since 1997" width="200" height="50" /></a></div>
+<div style="float: right;"><a href="/commons-community-guidelines">© <span>2019</span><span><span> Common Dreams</span></span> </a></div>
+</div>
+  </div>
+</div>
+<div id="block-block-76" class="block block--block block--block-76">
+        <div class="block__content">
+    
+<div class="cta-handle">
+  <a id="cta-handle-open" href="#"><i class="fa fa-chevron-circle-down"></i> Please Help</a>
+  <a id="cta-handle-close" href="#" style="display: none;"><i class="fa fa-chevron-circle-up"></i> Close</a>
+</div>
+
+<div class="cta-content banner">
+  <div class="content-wrapper">
+<div class="cta-handle-top"><a href="#" id="slider_close_button"><em class="fa fa-close"> </em> Close</a></div>
+<div class="col-left">
+<h3>Support our common dreams.</h3>
+<div class="donate-option-grid"><a href="https://secure.actblue.com/donate/common-dreams?refcode=slideupbottom&amp;amount=15.00" target="_blank" class="option">$15</a> <a href="https://secure.actblue.com/donate/common-dreams?refcode=slideupbottom&amp;amount=27.00" target="_blank" class="option">$27</a> <a href="https://secure.actblue.com/donate/common-dreams?refcode=slideupbottom&amp;amount=50.00" target="_blank" class="option">$50</a></div>
+<div class="donate-option-grid"><a href="https://secure.actblue.com/donate/common-dreams?refcode=slideupbottom&amp;amount=100.00" target="_blank" class="option">$100</a> <a href="https://secure.actblue.com/donate/common-dreams?refcode=slideupbottom&amp;amount=250.00" target="_blank" class="option">$250</a> <a href="https://secure.actblue.com/donate/common-dreams?refcode=slideupbottom&amp;" target="_blank " class="option">Other</a></div>
+</div>
+<div class="col-right">
+<h3>Can We Count on Your Help Today?</h3>
+<p>Common Dreams is a small nonprofit with a big mission. Every day of the week, we publish the most important breaking news &amp; views for the progressive community. To remain an independent news source, we do not advertise, sell subscriptions or accept corporate contributions. Instead, we rely on readers like you, to provide the "people power" that fuels our work. Please help keep Common Dreams alive by making a contribution. Thank you. - Craig Brown, Co-founder</p>
+</div>
+</div>
+</div>
+<div class="slim-display banner">
+  <div id="slim-display-content-mobile">
+   <div class="content">
+      <p><strong>Never Miss a Beat.</strong> Get our best delivered to your inbox.</p>
+     <a id="cta-handle-mobile-close" href="#"><i class="fa fa-close"></i></a>
+    </div>
+    <div class="form">
+      <form name='custom_form' action='https://info.commondreams.org/acton/eform/33231/0004/d-ext-0001' enctype="multipart/form-data" accept-charset="UTF-8">
+        <input type="text" class="formFieldText formFieldLarge" id="form_0004_fld_0" name="Email" placeholder='Your email' required>
+        <input id="form_0004_ao_submit_input" type="submit" name="Submit" value="Sign Up" onClick="doSubmit(document.getElementById('form_0004'))">
+<input id="form_0004_fld_2-1" type="hidden" name="Subscription Choice" value="Weekly Newsletter" checked="checked" />
+        <input id="form_0004_fld_2-0" type="hidden" name="Subscription Choice" value="Daily Newsletter" checked="checked" />
+      </form>
+    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+<div id="block-ctas-cta-modal-winter-2017" class="block block--ctas block--ctas-cta-modal-winter-2017">
+        <div class="block__content">
+    <style>
+#bio_ep {
+  border: 3px solid #FFCC00;
+  border-radius: 6px;
+}
+#bio_ep .content {
+  padding: 15px;
+}
+#bio_ep_close {
+  display: none;
+}
+#bio_ep #close-modal {
+    display: block;
+    position: relative;
+    left: auto;
+    float: right;
+    background: transparent;
+    color: #000;
+    margin: 10px;
+}
+</style>
+<div id="bio_ep_bg"></div>
+<div id="bio_ep">
+  <a href="#" id="close-modal">X</a>
+  <div class="content">
+    <div class="body">
+      
+<div class="logo"><img src="/sites/all/modules/custom/ctas/images/common-dreams-logo.png" alt="Common Dreams Free Newsletter Subscription" /></div>
+
+<div class="text"><br /><big><strong>NEVER MISS A BEAT</strong></big><p><strong>Get our best delivered to your inbox.</strong></p></div>
+
+<form action="https://info.commondreams.org/acton/eform/33231/0009/d-ext-0001" name="custom_form" enctype="multipart/form-data" accept-charset="UTF-8"><p>
+
+<input id="form_0009_fld_0_1" class="formFieldText formFieldMediumLeft" type="text" name="First Name" value="" placeholder='First Name' >&nbsp;&nbsp; 
+<input id="form_0009_fld_0_2" class="formFieldText formFieldMediumRight" type="text" name="Last Name" value="" placeholder='Last Name' > 
+<input id="form_0009_fld_2-0" type="hidden" name="Subscription Choice" value="Daily Newsletter" checked="checked" /> 
+<input id="form_0009_fld_2-1" type="hidden" name="Subscription Choice" value="Weekly Newsletter" checked="checked" /></p><p>
+<input id="form_0009_fld_1" class="formFieldText formFieldLarge" type="text" name="Email" placeholder='Your email' required></p><p>
+<input id="form_0009_ao_submit_input" onclick="doSubmit(document.getElementById('form_0009'))" type="submit" name="Submit" value="Sign Up" /></p><div class="actions"><a href="#" class="btn btn-default" id="close-modal">No Thank You</a></div></form>    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+  </footer>
+
+    <!-- START Parse.ly Include: Standard -->
+  <div id="parsely-root" style="display: none">
+    <span id="parsely-cfg" data-parsely-site="commondreams.org"></span>
+  </div>
+  <script>
+    (function(s, p, d) {
+      var h=d.location.protocol, i=p+"-"+s,
+        e=d.getElementById(i), r=d.getElementById(p+"-root"),
+        u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+          :"static."+p+".com";
+      if (e) return;
+      e = d.createElement(s); e.id = i; e.async = true;
+      e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+    })("script", "parsely", document);
+  </script>
+  <!-- END Parse.ly Include: Standard -->
+  </div>
+  <script type="text/javascript" src="/sites/default/files/advagg_js/js__Azkuj9toHCbmqsIMUjpFXF5IzPwTx1VnfE_mEi2rxGA__8UQmPDKdEtK4rWYqmw6SOkbfuaL5XufH_5iWs8SO2sM__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      var _sf_async_config = _sf_async_config || {};
+      /** CONFIGURATION START **/
+      _sf_async_config.sections = 'World, War & Peace, Economy, Climate, Rights, Solutions, U.S., Canada';
+      _sf_async_config.authors = 'Common Dreams';
+      /** CONFIGURATION END **/
+      (function() {
+        function loadChartbeat() {
+          window._sf_endpt = (new Date()).getTime();
+          var e = document.createElement('script');
+          e.setAttribute('language', 'javascript');
+          e.setAttribute('type', 'text/javascript');
+          e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+
+          document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+          loadChartbeat : function() {
+            oldonload();
+            loadChartbeat();
+          };
+
+      })();
+    
+//--><!]]>
+</script>
+<script type="text/javascript" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__hCOE9Eyj6gwLo01c-RX4LaAUWmJQ4py89IxYY_Z6LSc__5nRTcQENmhE3DS_N9ELbAnN9u_EDOzF0pcD4neQfGjA__v3140sqGgk-xEhZa4fF-g4yIbfXmpcSdS3CRqLaRgGQ.js"></script>
+  <script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//info.commondreams.org/cdnr/29/acton/bn/tracker/33231';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+</body>
+</html>
